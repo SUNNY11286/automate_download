@@ -8,7 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 
-url = 'your one drive share point url'
+url = 'your one drive share point url!!'
 
 
 class ODD_Bot():
